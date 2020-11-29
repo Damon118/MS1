@@ -2,7 +2,7 @@
 
 View website on GitHub Pages
 
-## Introdution
+## Introduction
 
 This website was constructed as the e-commerce hub and digital marketing platform for a start-up business - plantsupports.ie. The pandemic
 has created a new generation of horticulture and gardening enthusiasts, and indeed rekindled a few old flames, who have found that growing 
@@ -129,6 +129,45 @@ Order - **[View](assets/images/wireframe4.png)**
 
 Contact Us - **[View](assets/images/wireframe5.png)**
 
+## Features
 
+- Responsive on all device sizes
 
+- Interactive elements 
 
+### Home
+
+TBC
+
+### About Us
+
+TBC
+
+### Gallery
+
+TBC
+
+### Order
+
+TBC
+
+### Contact
+
+TBC
+
+## Technologies Used
+
+### Programming Languages 
+
+- HTML5
+- CSS3 
+
+### Version Control
+
+- Gitpod as the Integrated Development Environment (IDE)
+- Git as version Control
+- Github for repo hosting
+
+### Frameworks, Libraries & Programs Used
+
+### Frameworks, Libraries & Programs Used

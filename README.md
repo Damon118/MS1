@@ -119,15 +119,15 @@ customers to engage with the business and address any queries or concerns.
 
 ### Wireframes 
 
-Home Page - **[View](MS1/assets/images/Wireframe Landing Page.png)** 
+Home Page - **[View](assets/images/wireframe1.png)** 
 
-About Us - **[View](MS1assets/images/Wireframe About Us.png)**
+About Us - **[View](assets/images/wireframe2.png)**
 
-Gallery - **[View](MS1/assets/images/Wireframe Gallery.png)**
+Gallery - **[View](assets/images/wireframe3.png)**
 
-Order - **[View](MS1/assets/images/Wireframe Order.png)**
+Order - **[View](assets/images/wireframe4.png)**
 
-Contact Us - **[View](MS1/assets/images/Wireframe Order.png)**
+Contact Us - **[View](assets/images/wireframe5.png)**
 
 
 

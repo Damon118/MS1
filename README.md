@@ -31,7 +31,7 @@ be responsibe and accessible on a range of devices, making it easy to navigate f
 
 ## UX 
 
-### The business goals of this website are: 
+### Business Goals: 
 
 - The principal purpose of this site is to sell and market a product. The product in my MS1 project are different varities and dimensions of 
   metallic plant supports, with a broad target market ranging from avid, experienced gardeners to novice and those with only a transient interest. 
@@ -41,6 +41,12 @@ be responsibe and accessible on a range of devices, making it easy to navigate f
 - Build brand awareness.
 - Promote sales, business development and engagement with prospective customers through the use of a contact form.
 
+### User Goals: 
 
+- Understand the purpose and benefits of the product.
+- Have different options and product specifications about the product to best suit their needs.
+- View the product in use and see it's value in action.
+- Clear product specifications and pricing.
+- Intuitive ordering process.
 
 

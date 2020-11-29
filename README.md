@@ -50,9 +50,11 @@ be responsibe and accessible on a range of devices, making it easy to navigate f
 - Clear product specifications and pricing.
 - Intuitive ordering process. 
 
-## User Scenarios 
+### User Scenarios 
 
-### Ideal client 
+
+#### Ideal client 
+
 
 #### The ideal client for this business is: 
 
@@ -76,14 +78,44 @@ be responsibe and accessible on a range of devices, making it easy to navigate f
 - This project has good UX and is tailored to it's target market through ease of navigation, aesthetically
   pleasing content and contact form for expert advice and consultation if required
 
-#### As a user I need to: 
+#### As a new user I need to: 
 
 - Understand the purpose and value of the product.
 - Easily navigate through the website.
 - Be able to contact a business representative for further information or advice.
 - Find clear information about the product specifications and pricing. 
 - Find testimonials from previous buyers to inspire confience and trust in the business and prodcut
-- Find information on who runs the business and where it is located
+- Find information on who runs the business and where it is located 
+
+#### As a returning user I want to:  
+
+- Find community and social links to engage with
+- See if there are any new products or promotions 
+- Review testimonials from other customers
+- Receive further information and advice regarding the product 
+- Sign up to a newsletter or email service about any new business developments 
+- Provide feedback on the service and product
+
+
+### Structure 
+
+This project is a business-to-consumer (B2C) website and is designed to be intuitive, informative and provide a relatively low number of steps to purchase. The landing page and gallery provide 
+captivating images to connect with the user while testimonials and the about us section help inspire trust and conifidence in the business. The contact form provides and clear and easy way for
+customers to engage with the business and address any queries or concerns.
+
+#### Interaction design
+
+- Responsive and accesible on a range of devices 
+- Visually pleasing displays 
+- Low number of steps to purchase or contact
+- The interfact interacts with user actions as expected, the scroll/swipe actions respond with the normal behaviour and buttons acts instantly on press. These features generate a predictable
+  feel for the user.
+
+
+#### Information architecture 
+
+- Constructed with a focus on simplicity, so that no extraneous information and functionality is present and overload is avoided.
+- The content is organised and prioritised by importance from top to bottom and left to right in terms of position on the page.
 
 
 

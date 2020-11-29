@@ -170,4 +170,25 @@ TBC
 
 ### Frameworks, Libraries & Programs Used
 
-### Frameworks, Libraries & Programs Used
+#### Bootstrap4 
+
+- Bootstrap was utilised for it's responsiveness and attractive, visually-pleasing styling features
+
+#### Font Awesome 
+
+- Font Awesome icons were used for aesthetic and user experience design.
+
+#### Google Fonts
+
+- Google Fonts was chosen as the sole font library due to it's vast and comprehensive nature 
+
+#### Balsamiq 
+
+- Balsamiq was used to create the mobile, tablet and desktop wireframes in the UX design
+
+
+#### Google Maps API 
+
+- Google Maps API was used for showing where the business was located 
+
+## Testing

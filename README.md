@@ -54,7 +54,7 @@ be responsibe and accessible on a range of devices, making it easy to navigate f
 
 ### Ideal client 
 
-The ideal client for this business is: 
+#### The ideal client for this business is: 
 
 - English speaking.
 - Has an interest in gardening or horticulture.
@@ -62,19 +62,28 @@ The ideal client for this business is:
 - Lives in Ireland or Northern Ireland 
 - If living abroad, not adverse to shipping fees due to the nature (size and weight) of the product 
 
-Visitors to this website are searching for: 
+#### Visitors to this website are searching for: 
 
 - Products to augment their garden and improve their gardening techniques and methods
 - Education on the benefits and purpose of plant supports 
 - A point of contact to discuss their requirements and receive advice
 
-This project is the best way to help them achieve these things because: 
+#### This project is the best way to help them achieve these things because: 
 
 - Clear and concise information is provided on the purpose and benefits of using the product
 - Appealing and attractive images of the product in use are present in the gallery
 - Garden centre and supplier websites in Ireland are typically limited and have poor UX 
 - This project has good UX and is tailored to it's target market through ease of navigation, aesthetically
   pleasing content and contact form for expert advice and consultation if required
+
+#### As a user I need to: 
+
+- Understand the purpose and value of the product.
+- Easily navigate through the website.
+- Be able to contact a business representative for further information or advice.
+- Find clear information about the product specifications and pricing. 
+- Find testimonials from previous buyers to inspire confience and trust in the business and prodcut
+- Find information on who runs the business and where it is located
 
 
 

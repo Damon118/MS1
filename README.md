@@ -1,6 +1,8 @@
 # README.md Document 
 
-### Introdution
+View website on GitHub Pages
+
+## Introdution
 
 This website was constructed as the e-commerce hub and digital marketing platform for a start-up business - plantsupports.ie. The pandemic
 has created a new generation of horticulture and gardening enthusiasts, and indeed rekindled a few old flames, who have found that growing 
@@ -8,7 +10,7 @@ is good for the soul, promotes emotional and mental wellbeing, reduces stress, b
 supports are a contemporary and effective method of gardening which have a number of key benefits that make them popular with gardeners of 
 all levels of expereience.
 
-Benefits include: 
+### Benefits include: 
 
 -	As the name suggests, providing support and structure, which can help prevent plants from breaking or falling over due to windy conditions 
     or heavy, overloaded branches. Broken or damaged stems are pathways for pests and disease. 
@@ -26,7 +28,6 @@ to increase their online presence and promote e-commerce. With this project, we 
 address the relatively slow uptake of e-commerce solutions by retailers in the horticultural sector in Ireland, provide optimal user experience 
 and produce a real-life demonstration of my development expertise for my user centric frontend development milestone project. It’s designed to 
 be responsibe and accessible on a range of devices, making it easy to navigate for potential customers. 
-
 
 
 ## UX 

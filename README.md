@@ -45,11 +45,37 @@ be responsibe and accessible on a range of devices, making it easy to navigate f
 ### User Goals 
 
 - Understand the purpose and benefits of the product.
-- Have different options and product specifications about the product to best suit their needs.
+- Have different options and product specifications to best suit their needs.
 - View the product in use and see it's value in action.
 - Clear product specifications and pricing.
 - Intuitive ordering process. 
 
-### User Scenarios
+## User Scenarios 
+
+### Ideal client 
+
+The ideal client for this business is: 
+
+- English speaking.
+- Has an interest in gardening or horticulture.
+- Has disposbale income and is willing to invest in their garden. 
+- Lives in Ireland or Northern Ireland 
+- If living abroad, not adverse to shipping fees due to the nature (size and weight) of the product 
+
+Visitors to this website are searching for: 
+
+- Products to augment their garden and improve their gardening techniques and methods
+- Education on the benefits and purpose of plant supports 
+- A point of contact to discuss their requirements and receive advice
+
+This project is the best way to help them achieve these things because: 
+
+- Clear and concise information is provided on the purpose and benefits of using the product
+- Appealing and attractive images of the product in use are present in the gallery
+- Garden centre and supplier websites in Ireland are typically limited and have poor UX 
+- This project has good UX and is tailored to it's target market through ease of navigation, aesthetically
+  pleasing content and contact form for expert advice and consultation if required
+
+
 
 

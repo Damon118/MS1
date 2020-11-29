@@ -115,7 +115,19 @@ customers to engage with the business and address any queries or concerns.
 #### Information architecture 
 
 - Constructed with a focus on simplicity, so that no extraneous information and functionality is present and overload is avoided.
-- The content is organised and prioritised by importance from top to bottom and left to right in terms of position on the page.
+- The content is organised and prioritised by importance from top to bottom and left to right in terms of position on the page. 
+
+### Wireframes 
+
+Home Page - **[View](MS1/assets/images/Wireframe Landing Page.png)** 
+
+About Us - **[View](MS1assets/images/Wireframe About Us.png)**
+
+Gallery - **[View](MS1/assets/images/Wireframe Gallery.png)**
+
+Order - **[View](MS1/assets/images/Wireframe Order.png)**
+
+Contact Us - **[View](MS1/assets/images/Wireframe Order.png)**
 
 
 

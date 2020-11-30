@@ -189,6 +189,10 @@ TBC
 
 #### Google Maps API 
 
-- Google Maps API was used for showing where the business was located 
+- Google Maps API was used for showing where the business was located  
+
+#### Logo 
+
+- Canva was used to create the site logo
 
 ## Testing

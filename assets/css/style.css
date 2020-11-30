@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700'); 
+
+header {
+    margin: 0;
+}
+
+.logo {
+    background-image: url("../images/pslogo.png"); 
+    background-position: left top;
+    background-repeat: no-repeat; 
+    background-size: 200px 200px; 
+    min-height: 200px;
+    width: 100%;
+    opacity: 0.6; 
+}

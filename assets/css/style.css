@@ -1,14 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700'); 
 
-header {
-    margin: 0;
+.navbar-nav {
+    padding: 30px; 
+    align-content: right;
 }
 
-.logo {
-    background-image: url("../images/pslogo.png"); 
-    background-position: left top;
-    background-repeat: no-repeat; 
-    background-size: 200px 200px; 
-    min-height: 200px;
-    width: 100%;     
+#logo {
+    background-position: left;
+    float: left;  
 } 

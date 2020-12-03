@@ -2,6 +2,11 @@
 
 .navbar {
     text-align: right;
+} 
+
+.nav-logo {
+    margin: 0;
+    padding: 2px;
 }
 
 .masthead {
@@ -11,4 +16,17 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+} 
+
+.hero-image {
+   position: relative;
+  text-align: center;
+  color: white; 
+} 
+
+.slogan {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }

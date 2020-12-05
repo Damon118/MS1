@@ -9,21 +9,38 @@
     padding: 2px;
 }
 
-.masthead {
-  height: 100vh;
-  min-height: 500px;
-  background-image: url("../images/heroimage.png");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-} 
+/* -----Hero Image index.html------- */  
 
-.hero-image {
+#hero-image {
+    height: 1100px; 
+}
+
+.hero-image { 
+    background-image: url("../images/heroimage.png"); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    height: 900px;
+    width: 100%;
     position: relative;
     text-align: center;
-    color: white; 
-    height: 400px; 
+    color: white;  
+    padding: 5px;
 } 
+
+/* -----Section 2 images index.html------- */ 
+
+.specimen-contain {
+    margin: 0;
+}
+
+.specimen-photos {
+    height: auto; 
+    max-width: 100%; 
+    margin: 5px;
+    
+}
+
+
 
 /* -----Footer ------- */
 

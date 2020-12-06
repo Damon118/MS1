@@ -84,6 +84,16 @@
     text-transform: capitalize;  
 }
 
+.customer-testimonial-image {
+    display: block;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%; 
+    margin: 0 auto; 
+    margin-left: auto;
+    margin-right: auto;
+    
+}
 
 
 /* -----Footer ------- */

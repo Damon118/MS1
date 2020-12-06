@@ -47,3 +47,9 @@
 .uppercase {
     text-align: center;
 }
+
+.copyright-footer {
+    font-weight: bold;
+    text-decoration: underline; 
+    text-align: left;
+}

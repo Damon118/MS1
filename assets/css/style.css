@@ -61,4 +61,15 @@
 
 .social-footer {
     font-weight: bold;
+} 
+
+.social-links { 
+    padding: 5px;
+    background-color: rgb(31, 108, 222);
+    color: #fafafa;
+    height: 20px;
+    weight: 20px;
+    text-align: center; 
+    line-height: 4px;
+    border-radius: 50%;
 }

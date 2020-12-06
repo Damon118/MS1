@@ -38,6 +38,15 @@
     max-width: 100%; 
     margin: 5px;
     
+} 
+
+/* -----Section 3 customer testimonials index.html------- */ 
+
+.customer-testimonials-heading { 
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+
 }
 
 

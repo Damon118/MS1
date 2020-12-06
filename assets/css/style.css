@@ -42,6 +42,13 @@
 
 /* -----Section 3 customer testimonials index.html------- */ 
 
+.customer-testimonials-section {
+    width: 100%;
+    height: 500px;
+    padding: 5px;
+    margin: 2px;
+}
+
 .customer-testimonials-heading { 
     text-align: center;
     font-family: 'Roboto', sans-serif;

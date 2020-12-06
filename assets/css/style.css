@@ -67,6 +67,11 @@
     font-weight: bold; 
     padding: 2px; 
     text-align: center;
+} 
+
+.customer-testimonial-location {
+    text-align: center;
+    text-transform: capitalize;  
 }
 
 

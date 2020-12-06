@@ -56,6 +56,19 @@
 
 }
 
+.customer-testimonial-paragraph {
+    font-style: italic; 
+    padding: 5px; 
+    margin: 2px;
+    
+} 
+
+.customer-testimonial-name {
+    font-weight: bold; 
+    padding: 2px; 
+    text-align: center;
+}
+
 
 
 /* -----Footer ------- */

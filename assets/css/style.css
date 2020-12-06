@@ -93,6 +93,16 @@
     margin-left: auto;
     margin-right: auto;
     
+} 
+
+/* -----Image in aboutus.html------- */ 
+
+.about-us-image {
+    width: 930px;
+    height: 750px; 
+    padding: 5px;
+    margin-top: 80px;
+    
 }
 
 

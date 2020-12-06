@@ -100,11 +100,18 @@
 
 .interested-footer {
     font-weight: bold;
-    text-align: left;
+    text-align: left; 
 } 
+
+.interested-info {
+    padding: 5px;
+    margin: 2px;
+}
 
 .social-footer {
     font-weight: bold;
+    padding: 5px;
+    margin-bottom: 10px;
 } 
 
 .social-links { 

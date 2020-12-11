@@ -12,17 +12,16 @@
 /* -----Hero Image index.html------- */  
 
 #hero-image {
-    height: 1100px; 
+    height: 80vh; 
 }
 
 .hero-image { 
     background-image: url("../images/heroimage.png"); 
     background-size: cover; 
     background-repeat: no-repeat; 
-    height: 900px;
-    width: 100%;
-    position: relative;
-    text-align: center;
+    height: 80vh; 
+    max-height: 100%;
+    max-width: 100%;
     color: white;  
     padding: 5px;
 } 

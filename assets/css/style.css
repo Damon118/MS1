@@ -140,12 +140,31 @@
 .contact-heading { 
     text-align: center;
     padding: 20px;
-    margin-bottom: 15px;
+    margin-bottom: 15px; 
+    text-transform: capitalize;
 }
 
 .btn-info {
     padding-bottom: 5px;
     margin-bottom: 2px;
+} 
+
+.business-location {
+    text-transform: capitalize;
+    text-align: center; 
+    padding-bottom: 5px;
+    margin-bottom: 2px;
+}
+
+.contact-location {
+    padding-left: 15px;
+    margin: 5px;  
+    text-align: center;
+} 
+
+.contact-image {
+    height: 50vh;
+    width: 60vh; 
 }
 /* -----Footer ------- */
 

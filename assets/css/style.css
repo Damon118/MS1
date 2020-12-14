@@ -189,6 +189,12 @@
     font-weight: bold;
 }
 
+.opening-hours {
+    padding-right: 20px;
+    padding-bottom: 6px;
+}
+
+
 /* -----Footer ------- */
 
 .uppercase {

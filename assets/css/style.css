@@ -126,6 +126,11 @@
 
 /* -----Gallery------- */ 
 
+.gallery-images {
+    margin: 0; 
+    padding: 0;
+}
+
 .gallery {
     -webkit-column-count: 3;
     -moz-column-count: 3;
@@ -133,6 +138,10 @@
     -webkit-column-width: 33%;
     -moz-column-width: 33%;
     column-width: 33%; 
+} 
+
+.img-fluid {
+    height: 60%; 
 }
 
 /* -----Contact Form------- */ 

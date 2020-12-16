@@ -106,38 +106,78 @@ body {
     
 } 
 
+/* -----aboutus.html------- */ 
+
+#about-us {
+    padding-top: 10px;
+    margin-top: 5px; 
+    margin-left: 2px;
+}
+
 /* -----Image in aboutus.html------- */ 
 
 .about-us-image {
     width: 900px;
     height: 710px; 
-    padding: 5px;
-    margin-top: 20px;
-    
+    padding: 5px;  
 } 
 
 /* -----Text in aboutus.html------- */ 
 
-.about-us-heading {
+.card-header {
     text-decoration: underline;
     text-transform: capitalize;
+    font-size: xx-large;
     font-weight: bold; 
     text-align: center; 
     margin-top: 45px;
 } 
 
-.about-us-paragraph {
+.card-title {
+    text-transform: capitalize;
+    font-weight: 400;
+    text-align: center;
+    padding: 10px;
+    margin: 4px 0px 30px 0px; 
+    font-size: x-large;
+}
+
+.fa-shopping-cart {
+    padding: 5px;
+    margin: 2px;
+}
+
+.card-paragraph {
     text-align: left;
     letter-spacing: 2px; 
     padding: 10px;
-    margin: auto;
-    border: 1px solid black; 
-    border-radius: 15px; 
-    background-color: #C7F1FF;
+    margin: auto; 
+    font-size: large;
 } 
 
+.btn-about {
+    margin-top: 30px;
+    background-color: #eb6434;
+    border-color: white;
+    border-radius: 15px;
+    min-width: 100px;
+    font-weight: bold;
+    color: #ffffff; 
+    text-transform: capitalize;
+}
+
+.feature {
+    padding: 15px;
+    margin: 30px;
+}
+
+.features-header {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
 .product-features { 
-    margin: 115px 0px 25px 0px;
+    margin: 20px 0px 25px 0px;
     text-align: center;
 } 
 

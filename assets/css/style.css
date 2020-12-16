@@ -199,27 +199,30 @@ body {
     padding: 0;
 }
 
-
-/*.gallery {
-    -webkit-column-count: 3;
-    -moz-column-count: 3;
-    column-count: 3;
-    -webkit-column-width: 33%;
-    -moz-column-width: 33%;
-    column-width: 33%; 
-} */
+#gallery {
+    margin: 0px 2px 0px 2px;
+} 
 
 .gallery-image {
-    padding: 5px;
+    padding: 5px; 
+} 
+
+.img-6 {
+    position:relative;
+    display:inline-block;
 }
 
-.badge {
+.badge-success { 
+    position: absolute;
+    top: 10px;
+    left: 30px;
     text-transform: uppercase;
-    font-size: large;
+    font-size: medium;
     color: #ffffff; 
-    margin-top: 10px;
-    min-width: 120px; 
-    margin-left: 60px;
+    text-align: center;
+    color:white;
+    font-size:20px; 
+    width: 25vh;
 }
 
 /* -----order.html------- */ 
@@ -288,22 +291,17 @@ section.order {
   }
 }
 
-
-
-
-
-
-
-
-
 /* -----Contact Form------- */ 
 
 .contact-form { 
     padding-top: 40px;
     padding-left: 30px;
-    margin-top: 30px;
-    margin-left: 15px; 
+    margin: 30px 5px 15px 15px;
 } 
+
+.contact-form .row {
+    padding-right: 30px;
+}
 
 .contact-border {
     border-radius: 25px;
@@ -322,7 +320,8 @@ section.order {
 } 
 
 .contact-location {
-    padding-left: 15px;
+    padding-left: 15px; 
+    padding-top: 15px;
     margin: 5px;  
     text-align: center;
 } 
@@ -363,9 +362,16 @@ section.order {
 
 .opening-hours {
     padding-right: 20px;
-    padding-bottom: 6px;
+    padding-bottom: 5px;
 }
 
+@media only screen and (max-width: 600px) {
+  .info-section {
+    font-size: small; 
+    width: 200px; 
+    display: block;
+  }
+}
 
 /* -----Footer ------- */ 
 
@@ -425,6 +431,5 @@ footer {
 @media only screen and (max-width: 600px) {
   .social-footer {
     width: auto;
-    
   }
 }

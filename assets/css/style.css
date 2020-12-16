@@ -173,7 +173,8 @@ body {
 
 .features-header {
     padding: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 20px; 
+    text-transform: capitalize;
 }
 
 .product-features { 
@@ -185,6 +186,10 @@ body {
     margin-bottom: 15px;
     font-size: 35px;
     line-height: 35px;
+}
+
+.btn-sm {
+    margin-bottom: 40px;
 }
 
 /* -----Gallery------- */ 
@@ -206,6 +211,15 @@ body {
 
 .gallery-image {
     padding: 5px;
+}
+
+.badge {
+    text-transform: uppercase;
+    font-size: large;
+    color: #ffffff; 
+    margin-top: 10px;
+    min-width: 120px; 
+    margin-left: 60px;
 }
 
 /* -----order.html------- */ 

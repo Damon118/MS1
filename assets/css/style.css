@@ -187,9 +187,10 @@ body {
 /* -----Image in aboutus.html------- */ 
 
 .about-us-image {
-    width: 900px;
-    height: 710px; 
-    padding: 5px;  
+    width: 100%;
+    height: 60vh; 
+    padding: 5px; 
+    object-fit: cover; 
 } 
 
 /* -----Text in aboutus.html------- */ 

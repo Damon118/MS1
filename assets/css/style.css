@@ -120,7 +120,8 @@ body {
 .customer-testimonial-image {
     display: block;
     height: 70px;
-    width: 70px;
+    width: 70px; 
+    object-fit: cover;
     border-radius: 50%; 
     margin: 0 auto; 
     margin-left: auto;
@@ -485,7 +486,7 @@ footer {
     padding: 5px;
     background-color: rgb(31, 108, 222);
     color: #fafafa;
-    height: 20px;
+    height: 25px;
     text-align: center; 
     line-height: 4px;
     border-radius: 50%; 

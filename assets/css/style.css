@@ -390,7 +390,7 @@ section.order {
 .contact-form { 
     padding-top: 40px;
     padding-left: 30px;
-    margin: 30px 5px 15px 15px;
+    margin: 30px 5px 125px 15px;
 } 
 
 .contact-form .row {
@@ -423,7 +423,8 @@ section.order {
 
 .contact-image {
     height: 50%;
-    width: 100%;
+    width: 100%; 
+    padding: 5px;
 } 
 
 .card-info {

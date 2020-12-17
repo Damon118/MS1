@@ -42,6 +42,7 @@ body {
 
 #hero-image {
     padding: 2px;
+    transform: translateY(-100px);
 }
 
 .hero-image { 

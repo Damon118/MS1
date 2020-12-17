@@ -307,7 +307,7 @@ body {
     opacity: 0.5;
 }
 
-.badge-success { 
+.badge-danger { 
     position: absolute;
     top: 10px;
     left: 30px;

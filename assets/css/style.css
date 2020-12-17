@@ -504,16 +504,3 @@ footer {
     border-radius: 50%; 
     margin: 2px;
 } 
-
-@media only screen and (max-width: 600px) {
-  .copyright-footer {
-    font-size: small; 
-    width: 200px;
-  }
-}
-
-@media only screen and (max-width: 600px) {
-  .social-footer {
-    width: auto;
-  }
-}

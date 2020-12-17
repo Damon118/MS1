@@ -77,7 +77,6 @@ body {
 
 .customer-testimonials-section {
     width: 100%;
-    height: 40vh;
     padding-top: 30px;
     margin: 2px; 
     background-color: #ffffff;
@@ -124,6 +123,12 @@ body {
     margin-right: auto;
     
 } 
+
+@media only screen and (max-width: 600px) {
+  .customer-testimonial-image {
+    margin-bottom: 30px;
+  }
+}
 
 /* -----Section 3 customer testimonials index.html------- */ 
 

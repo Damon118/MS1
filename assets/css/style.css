@@ -251,7 +251,12 @@ body {
 
 .feature {
     padding: 15px;
-    margin: 30px;
+    margin: 30px; 
+    background-color: rgb(114, 214, 84); 
+    -webkit-box-shadow: 0.3rem 0.3rem 0.9rem 0.2rem rgb(25, 97, 35);
+            box-shadow: 0.3rem 0.3rem 0.9rem 0.2rem rgb(25, 97, 35);
+    border-color: transparent;
+    color: #ffffff;
 }
 
 .features-header {
@@ -272,11 +277,11 @@ body {
 } 
 
 .feature h3 {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .btn-sm {
-    margin-bottom: 40px;
+    margin 10px 0px 40px 0px;
 }
 
 /* -----Gallery------- */ 

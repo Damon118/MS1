@@ -137,7 +137,7 @@ body {
     font-weight: bold;
     font-size: 30px;
     padding: 20px;
-    margin: 90px 0px 40px 0px; 
+    margin: 50px 0px 40px 0px; 
     text-transform: capitalize; 
     border: none; 
     text-decoration: none;
@@ -391,7 +391,8 @@ section.order {
 }
 
 .contact-border {
-    border-radius: 25px;
+    border-radius: 25px; 
+    height: 90%;
 }
 
 .contact-heading { 
@@ -414,13 +415,13 @@ section.order {
 } 
 
 .contact-image {
-    height: 42vh;
-    width: 64vh; 
+    height: 50%;
+    width: 100%;
 } 
 
 .card-info {
     text-align: center; 
-    margin-left: 30px;
+    margin-left: 30px; 
 }
 
 .card-body {

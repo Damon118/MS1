@@ -27,7 +27,7 @@ In Ireland, many garden centres and retailers are closed, and the future is incr
 to increase their online presence and promote e-commerce. With this project, we set out to establish an online presence for our start-up business, 
 address the relatively slow uptake of e-commerce solutions by retailers in the horticultural sector in Ireland, provide optimal user experience 
 and produce a real-life demonstration of my development expertise for my user centric frontend development milestone project. It’s designed to 
-be responsibe and accessible on a range of devices, making it easy to navigate for potential customers. 
+be responsive and accessible on a range of devices, making it easy to navigate for potential customers. 
 
 
 ## UX 
@@ -197,6 +197,27 @@ TBC
 
 ## Testing 
 
+## Deployment
+
+- This project was deployed to GitHub Pages using the following protocol: 
+
+1. Sign in to GitHub and select the revelvant repository
+2. Click the settings tab in the menu
+3. Scroll down to the Settings page until you arrive at the "GitHub Pages" Section
+4. Under the source heading, select the master branch option
+5. The page will refresh and deployment to GitHub Pages completed
+6. Scroll back to the GitHub pages section and click on the link above the source heading to view the live site
+
+### Making a Local Clone 
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
 
 ## Credits
 
@@ -208,6 +229,13 @@ TBC
 
 - All images were sourced using the advanced search function in Google Images to select those that were free of copyright 
 - The map on the contact page was sourced from Google Maps
+
+### Code
+
+- The customer testimonials in the homepapage and the product benefits listed in aboutus.html were inspired by the Bootstrapping Your Next Big Idea Videos by Matt Rudge of the Code Institute
+- [Stack Overflow](https://stackoverflow.com/) and [w3schools](https://www.w3schools.com/)
+
+
 
 ### Acknowledgements 
 

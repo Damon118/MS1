@@ -154,7 +154,12 @@ also an image gallery with six eye-catching photos of the product range, designe
 
 ### Color Schemes
 
-## Features
+- The website generally has bright and vibrant colours,  which is in keeping with the product and it's purpose - to improve a garden. A light grey theme was utilised for the navbar and
+footer. This helps the call-to-action button in the navbar, along with the logo, standout as much as possible. There is a recurring theme of green throughout the website, again, in line
+with the subject matter. The shade of green was selected in the planning and research stage of the project and is rgb(114, 214, 84). A bright tone is present on most pages, creating an 
+aesthetic and relatively simple design which aids to the intuitiveness of the site as a whole.
+
+## Features 
 
 
 - Responsive on all device sizes

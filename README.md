@@ -1,14 +1,19 @@
 # Plant Supports
 
+
 [View website on github-pages](https://damon118.github.io/MS1-Plant-Supports/)
 
+
+
 ## Introduction
+
 
 This website was constructed as the e-commerce hub and digital marketing platform for a start-up business - plantsupports.ie. The pandemic
 has created a new generation of horticulture and gardening enthusiasts, and indeed rekindled a few old flames, who have found that growing 
 is good for the soul, promotes emotional and mental wellbeing, reduces stress, boosts mood and  provides a sense of fulfilment. Plant  
 supports are a contemporary and effective method of gardening which have a number of key benefits that make them popular with gardeners of 
 all levels of expereience.
+
 
 ### Benefits include: 
 
@@ -30,7 +35,9 @@ and produce a real-life demonstration of my development expertise for my user ce
 be responsive and accessible on a range of devices, making it easy to navigate for potential customers. 
 
 
+
 ## UX 
+
 
 ### Business Goals 
 
@@ -129,33 +136,45 @@ Order - **[View](assets/images/wireframe4.png)**
 
 Contact Us - **[View](assets/images/wireframe5.png)**
 
+
+
 ## Features
+
 
 - Responsive on all device sizes
 
 - Interactive elements 
 
+
 ### Home
 
 TBC
+
 
 ### About Us
 
 TBC
 
+
 ### Gallery
 
 TBC
+
 
 ### Order
 
 TBC
 
+
 ### Contact
 
 TBC
 
+
+
+
 ## Technologies Used
+
 
 ### Programming Languages 
 
@@ -195,7 +214,11 @@ TBC
 
 - [Canva](https://www.canva.com) was used to create the site logo
 
+
+
+
 ## Testing 
+
 
 ## Deployment
 
@@ -210,16 +233,20 @@ TBC
 
 ### Making a Local Clone 
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1. Sign into GitHub
+2. Select the relevant repository
+3. Select the code dropdown button beside the Gitpod button
+4. Download the ZIP file, unpackage locally and open with IDE.
+5. Alternatively, to clone the repository using HTTPS, copy the link under "Clone with HTTPS"
+6. Open Gitbash
+7. Alter the current working directory to the location the clone is to be made 
+8. Type "git clone" and paste the copied URL 
+9. Press enter and the local clone is made
+
 
 
 ## Credits
+
 
 ### Content 
 
@@ -234,8 +261,6 @@ TBC
 
 - The customer testimonials in the homepapage and the product benefits listed in aboutus.html were inspired by the Bootstrapping Your Next Big Idea Videos by Matt Rudge of the Code Institute
 - [Stack Overflow](https://stackoverflow.com/) and [w3schools](https://www.w3schools.com/)
-
-
 
 ### Acknowledgements 
 

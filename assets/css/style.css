@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700'); 
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 * {
  box-sizing: border-box;
@@ -16,7 +16,8 @@ body {
 } 
 
 body {
-    padding-top: 80px;
+    padding-top: 80px; 
+    font-family: "roboto", sans-serif;
 }
 
 #body-index {
@@ -60,7 +61,7 @@ body {
 } 
 
 .slogan-header {
-     color: white; 
+     color: #ffffff; 
      text-align: center;
      font-size: 65px;
      font-weight: 500; 

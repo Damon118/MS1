@@ -1,6 +1,6 @@
 # Plant Supports
 
-[View website on github-pages]([I'm an inline-style link](https://www.google.com))
+[View website on github-pages](https://damon118.github.io/MS1-Plant-Supports/)
 
 ## Introduction
 
@@ -172,33 +172,33 @@ TBC
 
 #### Bootstrap 
 
-- Bootstrap was utilised for it's responsiveness and attractive, visually-pleasing styling features
+- [Bootstrap](https://getbootstrap.com/) was utilised for it's responsiveness and attractive, visually-pleasing styling features
 
 #### Font Awesome 
 
-- Font Awesome icons were used for aesthetic and user experience design.
+- [Font Awesome](https://fontawesome.com/) icons were used for aesthetic and user experience design.
 
 #### Google Fonts
 
-- Google Fonts was chosen as the sole font library due to it's vast and comprehensive nature 
+- [Google Fonts](https://fonts.google.com/) was chosen as the sole font library due to it's vast and comprehensive nature 
 
 #### Balsamiq 
 
-- Balsamiq was used to create the mobile, tablet and desktop wireframes in the UX design
+- [Balsamiq](https://balsamiq.com/wireframes/?gclid=EAIaIQobChMI9Y3WjKvW7QIVDbDtCh3IqgeyEAAYASAAEgIw1_D_BwE) was used to create the mobile, tablet and desktop wireframes in the UX design
 
 
 #### Google Maps API 
 
-- Google Maps API was used for showing where the business was located  
+- [Google Maps](https://www.google.com/maps) was used for showing where the business was located  
 
 #### Logo 
 
-- Canva was used to create the site logo
+- [Canva](https://www.canva.com) was used to create the site logo
 
 ## Testing 
 
 
-##Credits
+## Credits
 
 ### Content 
 

@@ -145,30 +145,40 @@ Contact Us - **[View](assets/images/wireframe5.png)**
 
 - Interactive elements 
 
+The website is divided into five separate pages. A home page, an about us page, a gallery, an order page and contact page. Each page has the same header, with 
+company logo located on the left and a navigation menu with request callback button located on the right within the same row. Each page has the same footer with 
+social media icon links on the right, a copyright section to the left and brochure download option in the center.
 
-### Home
 
-TBC
+### Home Page
+
+- Hero-Image
+- Request callback button 
+- Customer testimonials 
+- Pop up shop locations and times
 
 
-### About Us
+### About Us Page
 
-TBC
+- Business story 
+- Product benefits
 
 
 ### Gallery
 
-TBC
+- Six appealing images of prodcut in use
 
 
-### Order
+### Order Page
 
-TBC
+- Four different pricing cards
 
 
-### Contact
+### Contact Page
 
-TBC
+- Contact form
+- Business location
+- Contact details
 
 
 

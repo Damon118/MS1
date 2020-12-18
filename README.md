@@ -136,7 +136,23 @@ Order - **[View](assets/images/wireframe4.png)**
 
 Contact Us - **[View](assets/images/wireframe5.png)**
 
+## Design
 
+
+### Typography
+
+- The Roboto font was the chosen font for the body of this site with Sans Serif as the safe alternative in the case of Roboto not being imported 
+
+- Roboto is a widespread and visually-pleasing font style. Roboto is a neo-grotesque sans-serif typeface family developed by Google as the system font 
+  for its mobile operating system Android. I have seen it utilised effectively on a number of similar websites during my research and selected it for this project.
+
+### Imagery 
+
+- The imagery selected is a key feature for attracting prospective buyers. The large hero-image on the Home Page is designed to be striking, to catch the user's attention and
+to show an example of the product being put to effective use. There is an image of the father and son team in the About Us page to help personalize the business story. There is
+also an image gallery with six eye-catching photos of the product range, designed to be visually-appealing and entice the viewer into a purchase. 
+
+### Color Schemes
 
 ## Features
 
@@ -181,7 +197,13 @@ social media icon links on the right, a copyright section to the left and brochu
 - Contact details
 
 
+### Features to implement in future
 
+- Functionality on the call-to-action buttons 
+- Option to choose language of website 
+- Larger gallery 
+- FAQ page
+- Modals
 
 ## Technologies Used
 

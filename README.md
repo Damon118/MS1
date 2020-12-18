@@ -1,6 +1,6 @@
-# README.md Document 
+# Plant Supports
 
-View website on GitHub Pages
+[View website on github-pages]([I'm an inline-style link](https://www.google.com))
 
 ## Introduction
 
@@ -170,7 +170,7 @@ TBC
 
 ### Frameworks, Libraries & Programs Used
 
-#### Bootstrap4 
+#### Bootstrap 
 
 - Bootstrap was utilised for it's responsiveness and attractive, visually-pleasing styling features
 
@@ -195,4 +195,22 @@ TBC
 
 - Canva was used to create the site logo
 
-## Testing
+## Testing 
+
+
+##Credits
+
+### Content 
+
+- All content was written by myself, Damon Gaffney, for the purpose of my Professional Diploma in Full Stack Software Development with Code Institute
+
+### Media 
+
+- All images were sourced using the advanced search function in Google Images to select those that were free of copyright 
+- The map on the contact page was sourced from Google Maps
+
+### Acknowledgements 
+
+- I'd like to thank the community at slack along with the tutor support, who have been absolutely vital to my studies and progress. 
+- I'd also like to thank my mentor, Maranatha Ilesanmi, for his time, feedback and help throughout my project
+

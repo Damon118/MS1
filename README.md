@@ -15,7 +15,7 @@
 
 [Features](#Features)
 
-[Technologies](#Technologies Used) 
+[Technologies](#Technologies) 
 
 [Testing](#Testing)
 
@@ -172,7 +172,7 @@ Contact Us - **[View](assets/images/wireframe5.png)**
 to show an example of the product being put to effective use. There is an image of the father and son team in the About Us page to help personalize the business story. There is
 also an image gallery with six eye-catching photos of the product range, designed to be visually-appealing and entice the viewer into a purchase. 
 
-### Color Schemes
+### Colour Schemes
 
 - The website generally has bright and vibrant colours,  which is in keeping with the product and it's purpose - to improve a garden. A light grey theme was utilised for the navbar and
 footer. This helps the call-to-action button in the navbar, along with the logo, standout as much as possible. There is a recurring theme of green throughout the website, again, in line
@@ -181,27 +181,44 @@ aesthetic and relatively simple design which aids to the intuitiveness of the si
 
 ## Features 
 
+### Common Features To All Pages 
 
 - Responsive on all device sizes
 
 - Interactive elements 
 
-The website is divided into five separate pages. A home page, an about us page, a gallery, an order page and contact page. Each page has the same header, with 
-company logo located on the left and a navigation menu with request callback button located on the right within the same row. Each page has the same footer with 
-social media icon links on the right, a copyright section to the left and brochure download option in the center.
+- The website is divided into five separate pages - a home page, an about us page, a gallery, an order page and contact page.
 
+- Header 
+
+  - Each page has the same header, with company logo located on the left and a navigation menu with a 'Request Callback' CTA button located on the right within the same row. 
+  - The company logo is clickable and will link back to the site homepage 
+  - The header is fixed at the top of the screen and will scroll with the page contents, allowing users to easily navigate through the website no matter where they are on the page, hence creating an intuitive design. 
+  - The navigations links undergo a colour change when a user's cursor hovers over it. This feature is available only a desktop or laptop but indicates to the site user that the 
+    navigation link is clickable.
+  - On a mobile device the navigation links will collapse into a dropdown button, with the navigation links displaying on the top left of the screen. 
+  - The header could be further enhanced in the future by adding functionality to the 'Request Callback' button for site users to book a telephone consultation or seek expert advice
+
+- Footer 
+
+  - Each page has the same footer which is located at the bottom page and does not scroll with the page contents in order to save screen real estate. 
+  - A copyright disclaimer is located on the left of the footer which states the year of creation and content creator.
+  - To the middle of the footer, is a download brochure option, which will undergo a colour change when the user's cursor hovers over it. 
+  - The company social media links are positioned to the right of the footer and each site is represented by it's relative icon. They will also undergo a colour change when 
+    a user's cursor hovers over it, again, showing it's a clickable link.
 
 ### Home Page
 
 - Hero-Image
-- Request callback button 
+- Request callback CTA button 
 - Customer testimonials 
-- Pop up shop locations and times
+- Pop-up shop locations and times
 
 
 ### About Us Page
 
 - Business story 
+- Image of proprietors (Helps authenticate business story)
 - Product benefits
 
 
@@ -224,13 +241,16 @@ social media icon links on the right, a copyright section to the left and brochu
 
 ### Features to implement in future
 
-- Functionality on the call-to-action buttons 
-- Option to choose language of website 
-- Larger gallery 
-- FAQ page
-- Modals
+- Functionality on the call-to-action buttons. In particular, the CTA button in the header which could be used to arranage telephone consultations with prospective customers and provide expert advice.
+- Option to choose language of website. 
+- Larger gallery and broader range of products. 
+- Google Reviews. 
+- FAQ page. 
+- Modals for the CTA buttons on the pop-up shop cards. These would include more specific information on the range of products and locations of these events. 
+- Newsletter and email marketing signup option for customers.
 
-## Technologies Used
+
+## Technologies
 
 
 ### Programming Languages 
@@ -275,6 +295,8 @@ social media icon links on the right, a copyright section to the left and brochu
 
 
 ## Testing 
+
+
 
 
 ## Deployment

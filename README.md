@@ -289,7 +289,11 @@ aesthetic and relatively simple design which aids to the intuitiveness of the si
 
 #### Logo 
 
-- [Canva](https://www.canva.com) was used to create the site logo
+- [Canva](https://www.canva.com) was used to create the site logo 
+
+#### Mockups 
+
+-[AmIResponsive](http://ami.responsivedesign.is/) was used to create the mockups for the site
 
 
 

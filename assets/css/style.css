@@ -180,7 +180,12 @@ body {
     font-weight: normal;
     padding: 10px;
     margin: 30px 4px 4px 4px;
-    color: #ffffff;
+    color: #ffffff; 
+}
+
+.shop-date {
+    text-align: left; 
+    text-decoration: none;
 }
 
 .btn-shop { 

@@ -9,13 +9,13 @@
 
 [Introduction](#Introduction) 
 
-[UX](#UX)]
+[UX](#UX)
 
 [Design](#Design) 
 
 [Features](#Features)
 
-[TechnologiesUsed](#Technologies Used) 
+[Technologies](#Technologies Used) 
 
 [Testing](#Testing)
 

@@ -3,7 +3,7 @@
 
 [View Website](https://damon118.github.io/MS1-Plant-Supports/) 
 
-{Mockup}(assets/images/mockups.png)
+![Mockup](./assets/images/mockups.png)
 
 
 

@@ -3,7 +3,25 @@
 
 [View Website](https://damon118.github.io/MS1-Plant-Supports/) 
 
-![Mockup](./assets/images/mockups.png)
+![Mockup](./assets/images/mockups.png) 
+
+## Table of Contents 
+
+[Introduction](#Introduction) 
+
+[UX](#UX)]
+
+[Design](#Design) 
+
+[Features](#Features)
+
+[TechnologiesUsed](#Technologies Used) 
+
+[Testing](#Testing)
+
+[Deployment](#Deployment) 
+
+[Credits](#Credits)
 
 
 

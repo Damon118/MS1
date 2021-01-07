@@ -303,7 +303,7 @@ aesthetic and relatively simple design which aids to the intuitiveness of the si
 ### HTML Validation 
 
 -The HTML was validated online using the [W3C Markup Validation Service](https://validator.w3.org/). The site's five pages were separtely validated using this online tool to ensure that there were no 
-syntax errors within the code. The results of this testing are indicated below in the relevant sections.
+syntax or structural errors within the code. The results of this testing are indicated below in the relevant sections.
 
   -Home Page [(W3C Validation Report)](./assets/images/indexw3c.png) 
 
@@ -311,7 +311,7 @@ syntax errors within the code. The results of this testing are indicated below i
 
   -About Us Page [(W3C Validation Report)](./assets/images/aboutw3c.png) 
 
-   The HTML Validation tool reported two errors within the about us page, which were two stray end div tags. The two releavnt tags were subsequently removed from the code.
+   The HTML validation tool reported two errors within the code of the about us page, which were two stray end div tags. The two relevant tags were subsequently removed from the code.
 
   -Gallery Page [(W3C Validation Report)](./assets/images/galleryw3c.png) 
 
@@ -320,11 +320,20 @@ syntax errors within the code. The results of this testing are indicated below i
    in design. The user would know what page of the site they are currently viewing (active page) through the particular page link in the nav bar being black in colour as dintinct from the non-active options 
    which are grey. Adding a gallery heading could be implemented in the future as the site evolves to identify the section for screen readers, even though it is not currently neccessary for the visual design.
    
-  -Order Page [(W3C Validation Report Part 1)](./assets/images/orderw3c1.png) [(W3C Validation Report Part 2)](./assets/images/orderw3c2.png)
+  -Order Page [(W3C Validation Report Part 1)](./assets/images/orderw3c1.png) [(W3C Validation Report Part 2)](./assets/images/orderw3c2.png) 
 
-   
+   The HTML validation tool reported six errors within the code of the order page. The relevant br elements were subsequently removed and the code restructured to correct errors 2 and 3 in the above reports.
 
-  -Contact Page [(W3C Validation Report)](./assets/images/contactw3c.png)
+  -Contact Page [(W3C Validation Report)](./assets/images/contactw3c.png) 
+
+   The first testing of the contact page using the validation tool came back with no errors or warnings to report.
+
+
+### CSS Validation 
+
+-The CSS was validated online using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/). The site's five pages were separtely validated using this online tool to ensure that there were no 
+syntax or structural errors within the code. The results of this testing are indicated below in the relevant sections.
+
 
 
 

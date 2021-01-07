@@ -293,12 +293,26 @@ aesthetic and relatively simple design which aids to the intuitiveness of the si
 
 #### Mockups 
 
--[AmIResponsive](http://ami.responsivedesign.is/) was used to create the mockups for the site
+- [AmIResponsive](http://ami.responsivedesign.is/) was used to create the mockups for the site
 
 
 
 
 ## Testing 
+
+### HTML Validation 
+
+The HTML was validated online using the [W3C Markup Validation Service](https://validator.w3.org/). The site's five pages were separtely validated using this online tool. 
+
+Home Page [(W3C Validation Report)](./assets/images/indexw3c.png)
+
+About Us Page [(W3C Validation Report)](./assets/images/aboutw3c.png)
+
+Gallery Page [(W3C Validation Report)](./assets/images/galleryw3c.png)
+
+Order Page [(W3C Validation Report Part 1)](./assets/images/orderw3c1.png) [(W3C Validation Report Part 2)](./assets/images/orderw3c2.png)
+
+Contact Page [(W3C Validation Report)](./assets/images/contactw3c.png)
 
 
 

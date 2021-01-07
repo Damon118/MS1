@@ -318,12 +318,11 @@ syntax errors within the code. The results of this testing are indicated below i
    The HTML Validation tool highlighted a warning that the section element, which the site gallery is incorporated into, lacks a heading. Right from the project inception and initial design, I had 
    never intended to include a heading for my gallery page. The site is user-friendly, intuitive and has a clear navigation menu that is fixed to whatever page the user is viewing and is relatively basic
    in design. The user would know what page of the site they are currently viewing (active page) through the particular page link in the nav bar being black in colour as dintinct from the non-active options 
-   which are grey. 
+   which are grey. Adding a gallery heading could be implemented in the future as the site evolves to identify the section for screen readers, even though it is not currently neccessary for the visual design.
    
-
-
-
   -Order Page [(W3C Validation Report Part 1)](./assets/images/orderw3c1.png) [(W3C Validation Report Part 2)](./assets/images/orderw3c2.png)
+
+   
 
   -Contact Page [(W3C Validation Report)](./assets/images/contactw3c.png)
 

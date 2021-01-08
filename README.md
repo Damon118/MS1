@@ -156,6 +156,9 @@ Order - **[View](assets/images/wireframe4.png)**
 
 Contact Us - **[View](assets/images/wireframe5.png)**
 
+- These were the initial wireframes created during the project inception phase. As the project and my skills evolved, so too did the design of the site, hence, the wireframes do not exactly mirror the 
+  final project.
+
 ## Design
 
 

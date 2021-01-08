@@ -331,8 +331,10 @@ syntax or structural errors within the code. The results of this testing are ind
 
 ### CSS Validation 
 
--The CSS was validated online using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/). The site's five pages were separtely validated using this online tool to ensure that there were no 
-syntax or structural errors within the code. The results of this testing are indicated below in the relevant sections. 
+-The CSS was validated online using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/). The site was validated using this online tool to ensure that there were no 
+syntax or structural errors within the code and was entered into the validator tool by direct input.
+
+![CSS Validator Report](./assets/images/cssvalidator.png) 
 
 ### Performance Testing 
 
@@ -345,29 +347,34 @@ syntax or structural errors within the code. The results of this testing are ind
   user stories indicated in the UX section of this document to ensure my site achieved each of these objectives.
 
 - I requested the my project be peer viewed twice on Slack by my fellow students. I received several positive reviews and important recommendations which I implemented into my project on both occasions.
-  A number of my fellow students tested my site in it's entirety and confirmed the site functioned correctly and as expected.
+  A number of my fellow students tested my site in it's entirety and confirmed the site functioned correctly and as expected. 
+
+- [Responsinator](https://www.responsinator.com/) was used to confirm responsiveness on different device resolutions. 
+
+- [Am I Responsive](http://ami.responsivedesign.is/) was also utilised as a high fidelity responsive design tool for previewing and testing site across a variety of popular devices.
 
 - Lighthouse used within Chrome Dev tools to assess performance on desktop & mobile display, final results below: 
 
 
-#### Desktop 
+#### Desktop: 
 
 ![Desktop](./assets/images/desktop-performance.png) 
 
-#### Mobile 
+#### Mobile: 
 
 ![Mobile](./assets/images/mobile-performance.png) 
 
 
+
 ### Known Bugs & Issues
 
--The Upcoming Pop-up Shops section was originally structured using a table format. Unfortunately, tables don't typically render too well on a mobile so using the relevant bootstrap classes, 
+- The Upcoming Pop-up Shops section was originally structured using a table format. Unfortunately, tables don't typically render too well on a mobile so using the relevant bootstrap classes, 
  I made them only appear on large and extra large screens. Following recommendation on slack, and due to a disjointed UX, I changed the structure of the section from a table to a responsive
  bootstrap card so that the promotional information would appear on all screen sizes and maintain my mobile-first design. 
 
--Removed the fixed-bottom class on the footer as too much screen real estate was being lost in combination with a fixed header. 
+- Removed the fixed-bottom class on the footer as too much screen real estate was being lost in combination with a fixed header. 
 
--The images in the about us section and gallery are slow to load.
+- The images in the about us section and gallery are slow to load.
 
 
 

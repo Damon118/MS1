@@ -334,7 +334,7 @@ syntax or structural errors within the code. The results of this testing are ind
 -The CSS was validated online using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/). The site's five pages were separtely validated using this online tool to ensure that there were no 
 syntax or structural errors within the code. The results of this testing are indicated below in the relevant sections.
 
-### Known Bugs 
+### Known Bugs & Issues
 
 -The Upcoming Pop-up Shops section was originally structured using a table format. Unfortunately, tables don't typically render too well on a mobile so using the relevant bootstrap classes, 
  I made them only appear on large and extra large screens. Following recommendation on slack, and due to a disjointed UX, I changed the structure of the section from a table to a responsive

@@ -146,15 +146,15 @@ customers to engage with the business and address any queries or concerns.
 
 ### Wireframes 
 
-Home Page - **[View](assets/images/wireframe1.png)** 
+Home Page - **[View](wireframes/images/wireframe1.png)** 
 
-About Us - **[View](assets/images/wireframe2.png)**
+About Us - **[View](wireframes/images/wireframe2.png)**
 
-Gallery - **[View](assets/images/wireframe3.png)**
+Gallery - **[View](wireframes/images/wireframe3.png)**
 
-Order - **[View](assets/images/wireframe4.png)**
+Order - **[View](wireframes/images/wireframe4.png)**
 
-Contact Us - **[View](assets/images/wireframe5.png)**
+Contact Us - **[View](wireframes/images/wireframe5.png)**
 
 - These were the initial wireframes created during the project inception phase. As the project and my skills evolved, so too did the design of the site, hence, the wireframes do not exactly mirror the 
   final project.
@@ -182,7 +182,7 @@ footer for a simple, unimposing and intuitive design that does not detract from 
 The site theme is about utilising a simple product to support and improve plant growth, so the colours too are connected to nature and greenery. There is a recurring theme of green throughout the website, again, in line with the subject matter. 
 The shade of green was selected in the planning and research stage of the project and is rgb(114, 214, 84). A bright tone and white background is present on all pages, again, creating an aesthetic, clean and relatively simple design.
 
-[(Colour Schemes)](./assets/images/colour.png) 
+![Colour Schemes](./assets/images/colour.png) 
 
 ## Features 
 

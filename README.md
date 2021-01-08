@@ -332,7 +332,32 @@ syntax or structural errors within the code. The results of this testing are ind
 ### CSS Validation 
 
 -The CSS was validated online using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/). The site's five pages were separtely validated using this online tool to ensure that there were no 
-syntax or structural errors within the code. The results of this testing are indicated below in the relevant sections.
+syntax or structural errors within the code. The results of this testing are indicated below in the relevant sections. 
+
+### Performance Testing 
+
+- The site was tested on Google Chrome, Mozilla Firefox and Safari Web Browsers, and was fully functioning and responsive. 
+
+- The website was viewed on a variety of devices such as Desktop, tablet, iPhone 7 & iPhone X. All formats were correctly structured and displayed well. 
+
+- I completed a vast array of detailed and comprehensive testing of my site to ensure that all links functioned correctly. This composed of 
+  navigating through each page of my site and clicking every link/button that is available to a user (as part of their UX journey) to ensure that everything was fucntioning correctly. I examined the
+  user stories indicated in the UX section of this document to ensure my site achieved each of these objectives.
+
+- I requested the my project be peer viewed twice on Slack by my fellow students. I received several positive reviews and important recommendations which I implemented into my project on both occasions.
+  A number of my fellow students tested my site in it's entirety and confirmed the site functioned correctly and as expected.
+
+- Lighthouse used within Chrome Dev tools to assess performance on desktop & mobile display, final results below: 
+
+
+#### Desktop 
+
+![Desktop](./assets/images/desktop-performance.png) 
+
+#### Mobile 
+
+![Mobile](./assets/images/mobile-performance.png) 
+
 
 ### Known Bugs & Issues
 
@@ -342,7 +367,7 @@ syntax or structural errors within the code. The results of this testing are ind
 
 -Removed the fixed-bottom class on the footer as too much screen real estate was being lost in combination with a fixed header. 
 
--The images in the about us section and gallery are slow to load
+-The images in the about us section and gallery are slow to load.
 
 
 

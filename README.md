@@ -49,7 +49,7 @@ all levels of expereience.
     the place, which weakens them over time. 
 
 In Ireland, many garden centres and retailers are closed, and the future is incredibly uncertain. Most retailers and suppliers have made efforts 
-to increase their online presence and promote e-commerce. With this project, we set out to establish an online presence for our start-up business, 
+to increase their online presence and promote e-commerce. With this project, we have set out to establish an online presence for our start-up business, 
 address the relatively slow uptake of e-commerce solutions by retailers in the horticultural sector in Ireland, provide optimal user experience 
 and produce a real-life demonstration of my development expertise for my user centric frontend development milestone project. It’s designed to 
 be responsive and accessible on a range of devices, making it easy to navigate for potential customers. 
@@ -61,10 +61,10 @@ be responsive and accessible on a range of devices, making it easy to navigate f
 
 ### Business Goals 
 
-- The principal purpose of this site is to sell and market a product. The product in my MS1 project are different varities and dimensions of 
-  metallic plant supports, with a broad target market ranging from avid, experienced gardeners to novice and those with only a transient interest. 
+- The principal purpose of this site is to sell and market a range of products. The products in my MS1 project are different varities and dimensions of 
+  metallic plant supports, with a broad target market ranging from avid, experienced gardeners to novices and those with only a transient interest. 
 - Provide a good user experience. 
-- Provide clear logic and benefits of utilising the product with engaging and captivating imagery and video examples. 
+- Provide clear logic and benefits of utilising the product with engaging and captivating imagery. 
 - Promote and present the different product models and their features/specifications.
 - Build brand awareness.
 - Promote sales, business development and engagement with prospective customers through the use of a contact form.
@@ -88,22 +88,22 @@ be responsive and accessible on a range of devices, making it easy to navigate f
 - English speaking.
 - Has an interest in gardening or horticulture.
 - Has disposbale income and is willing to invest in their garden. 
-- Lives in Ireland or Northern Ireland 
-- If living abroad, not adverse to shipping fees due to the nature (size and weight) of the product 
+- Lives in Ireland or Northern Ireland. 
+- If living abroad, not adverse to shipping fees due to the nature (size and weight) of the product. 
 
 #### Visitors to this website are searching for: 
 
-- Products to augment their garden and improve their gardening techniques and methods
-- Education on the benefits and purpose of plant supports 
-- A point of contact to discuss their requirements and receive advice
+- Products to augment their garden and improve their gardening techniques and methods.
+- Education on the benefits and purpose of plant supports. 
+- A point of contact to discuss their requirements and receive advice.
 
 #### This project is the best way to help them achieve these things because: 
 
-- Clear and concise information is provided on the purpose and benefits of using the product
-- Appealing and attractive images of the product in use are present in the gallery
-- Garden centre and supplier websites in Ireland are typically limited and have poor UX 
+- Clear and concise information is provided on the purpose and benefits of using the product.
+- Appealing and attractive images of the product in use are present in the gallery.
+- Garden centre and supplier websites in Ireland are typically limited and have poor UX. 
 - This project has good UX and is tailored to it's target market through ease of navigation, aesthetically
-  pleasing content and contact form for expert advice and consultation if required
+  pleasing content and a contact form for expert advice and consultation if required.
 
 #### As a new user I need to: 
 
@@ -111,17 +111,17 @@ be responsive and accessible on a range of devices, making it easy to navigate f
 - Easily navigate through the website.
 - Be able to contact a business representative for further information or advice.
 - Find clear information about the product specifications and pricing. 
-- Find testimonials from previous buyers to inspire confience and trust in the business and prodcut
-- Find information on who runs the business and where it is located 
+- Find testimonials from previous buyers to inspire confience and trust in the business and product.
+- Find information on who runs the business and where it is located. 
 
 #### As a returning user I want to:  
 
-- Find community and social links to engage with
-- See if there are any new products or promotions 
-- Review testimonials from other customers
-- Receive further information and advice regarding the product 
-- Sign up to a newsletter or email service about any new business developments 
-- Provide feedback on the service and product
+- Find community and social links to engage with.
+- See if there are any new products or promotions. 
+- Review testimonials from other customers.
+- Receive further information and advice regarding the product. 
+- Sign up to a newsletter or email service about any new business developments. 
+- Provide feedback on the service and product.
 
 
 ### Structure 
@@ -132,9 +132,9 @@ customers to engage with the business and address any queries or concerns.
 
 #### Interaction design
 
-- Responsive and accesible on a range of devices 
-- Visually pleasing displays 
-- Low number of steps to purchase or contact
+- Responsive and accesible on a range of devices. 
+- Visually pleasing displays. 
+- Low number of steps to purchase or contact.
 - The interfact interacts with user actions as expected, the scroll/swipe actions respond with the normal behaviour and buttons acts instantly on press. These features generate a predictable
   feel for the user.
 
@@ -171,16 +171,18 @@ Contact Us - **[View](assets/images/wireframe5.png)**
 
 ### Imagery 
 
-- The imagery selected is a key feature for attracting prospective buyers. The large hero-image on the Home Page is designed to be striking, to catch the user's attention and
-to show an example of the product being put to effective use. There is an image of the father and son team in the About Us page to help personalize the business story. There is
+- The imagery selected is a key feature for attracting prospective buyers. The large hero-image on the home page is designed to be striking, to catch the user's attention and
+to show an example of the product being put to effective use. There is an image of the father and son team in the about us page to help personalize the business story. There is also
 also an image gallery with six eye-catching photos of the product range, designed to be visually-appealing and entice the viewer into a purchase. 
 
 ### Colour Schemes
 
-- The website generally has bright and vibrant colours,  which is in keeping with the product and it's purpose - to improve a garden. A light grey theme was utilised for the navbar and
-footer. This helps the call-to-action button in the navbar, along with the logo, standout as much as possible. There is a recurring theme of green throughout the website, again, in line
-with the subject matter. The shade of green was selected in the planning and research stage of the project and is rgb(114, 214, 84). A bright tone is present on most pages, creating an 
-aesthetic and relatively simple design which aids to the intuitiveness of the site as a whole.
+- The website generally has bright and vibrant colours, which is in keeping with the product and it's purpose - to improve a garden or green space. A light grey theme was utilised for the navbar and
+footer for a simple, unimposing and intuitive design that does not detract from any of the page content. This helps the call-to-action button in the navbar, along with the logo, standout as much as possible. 
+The site theme is about utilising a simple product to support and improve plant growth, so the colours too are connected to nature and greenery. There is a recurring theme of green throughout the website, again, in line with the subject matter. 
+The shade of green was selected in the planning and research stage of the project and is rgb(114, 214, 84). A bright tone and white background is present on all pages, again, creating an aesthetic, clean and relatively simple design.
+
+[(Colour Schemes)](./assets/images/colour.png) 
 
 ## Features 
 
@@ -227,7 +229,7 @@ aesthetic and relatively simple design which aids to the intuitiveness of the si
 
 ### Gallery
 
-- Six appealing images of prodcut in use
+- Six appealing images of product in use
 
 
 ### Order Page
@@ -341,7 +343,7 @@ syntax or structural errors within the code and was entered into the validator t
 
 ### Performance Testing 
 
-- The site was tested on Google Chrome, Mozilla Firefox and Safari Web Browsers, and was fully functioning and responsive. 
+- The site was tested on Google Chrome, Mozilla Firefox and Safari Web Browsers, and was fully functioning and responsive on all. 
 
 - The website was viewed on a variety of devices such as Desktop, tablet, iPhone 7 & iPhone X. All formats were correctly structured and displayed well. 
 
@@ -397,7 +399,7 @@ syntax or structural errors within the code and was entered into the validator t
 1. Sign into GitHub
 2. Select the relevant repository
 3. Select the code dropdown button beside the Gitpod button
-4. Download the ZIP file, unpackage locally and open with IDE.
+4. Download the ZIP file, unpackage locally and open with IDE
 5. Alternatively, to clone the repository using HTTPS, copy the link under "Clone with HTTPS"
 6. Open Gitbash
 7. Alter the current working directory to the location the clone is to be made 
@@ -411,20 +413,20 @@ syntax or structural errors within the code and was entered into the validator t
 
 ### Content 
 
-- All content was written by myself, Damon Gaffney, for the purpose of my Professional Diploma in Full Stack Software Development with Code Institute
+- All content was written by myself, Damon Gaffney, for the purpose of my Professional Diploma in Full Stack Software Development with Code Institute.
 
 ### Media 
 
-- All images were sourced using the advanced search function in Google Images to select those that were free of copyright 
-- The map on the contact page was sourced from Google Maps
+- All images were sourced using the advanced search function in Google Images to select those that were free of copyright. 
+- The map on the contact page was sourced from Google Maps.
 
 ### Code
 
-- The customer testimonials in the homepapage and the product benefits listed in aboutus.html were inspired by the Bootstrapping Your Next Big Idea Videos by Matt Rudge of the Code Institute
-- [Stack Overflow](https://stackoverflow.com/) and [w3schools](https://www.w3schools.com/)
+- The customer testimonials in the homepapage and the product benefits listed in aboutus.html were inspired by the Bootstrapping Your Next Big Idea Videos by Matt Rudge of the Code Institute.
+- [Stack Overflow](https://stackoverflow.com/) and [w3schools](https://www.w3schools.com/).
 
 ### Acknowledgements 
 
 - I'd like to thank the community at slack along with the tutor support, who have been absolutely vital to my studies and progress. 
-- I'd also like to thank my mentor, Maranatha Ilesanmi, for his time, feedback and help throughout my project
+- I'd also like to thank my mentor, Maranatha Ilesanmi, for his time, feedback and help throughout my project.
 

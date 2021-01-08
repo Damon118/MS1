@@ -146,15 +146,15 @@ customers to engage with the business and address any queries or concerns.
 
 ### Wireframes 
 
-Home Page - **[View](wireframes/images/wireframe1.png)** 
+Home Page - **[View](./wireframes/wireframe1.png)** 
 
-About Us - **[View](wireframes/images/wireframe2.png)**
+About Us - **[View](./wireframes/wireframe2.png)**
 
-Gallery - **[View](wireframes/images/wireframe3.png)**
+Gallery - **[View](./wireframes/wireframe3.png)**
 
-Order - **[View](wireframes/images/wireframe4.png)**
+Order - **[View](./wireframes/wireframe4.png)**
 
-Contact Us - **[View](wireframes/images/wireframe5.png)**
+Contact Us - **[View](./wireframes/wireframe5.png)**
 
 - These were the initial wireframes created during the project inception phase. As the project and my skills evolved, so too did the design of the site, hence, the wireframes do not exactly mirror the 
   final project.

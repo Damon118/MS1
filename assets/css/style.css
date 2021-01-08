@@ -331,6 +331,11 @@ body {
 
 /* -order.html- */ 
 
+
+/* - credit to Web-eau (https://www.web-eau.net/blog/10-examples-pricing-table-bootstrap)
+    for code snippet used to create the pricing cards. Based on example 7.
+- */ 
+
 section.order { 
     margin-top: 120px; 
     margin-bottom: 146px;
